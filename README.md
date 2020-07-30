@@ -1,2 +1,5 @@
 # movie_info_app
-Created with CodeSandbox
+
+2019 modern React Toy Project 
+
+
